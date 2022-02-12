@@ -1,0 +1,4 @@
+config.json
+*.exe
+*.py[cod]
+log.txt

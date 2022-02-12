@@ -1,0 +1,20 @@
+{
+  "email" : {
+    "smtp" : "SET_ME",
+    "smtpPort" : 465,
+    "login" : "SET_ME",
+    "password" : "SET_ME",
+    "sentFrom" : "SET_ME",
+    "criticalReceivers" : ["SET_ME", "SET_ME", "SET_ME"],
+    "warningReceivers" : ["SET_ME", "SET_ME"],
+    "infoReceivers" : ["SET_ME", "SET_ME"]
+  },
+  "chromeDriverPath" : "SET_ME",
+  "logFile" : "SET_ME",
+  "upsIps" : [
+    "SET_ME",
+    "SET_ME"
+  ],
+  "upsLogin" : "SET_ME",
+  "upsPassword" : "SET_ME"
+}
