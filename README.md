@@ -1,7 +1,7 @@
 
 
 
-The scrubbing script generates a log file (log.txt by default) and creates log similar to the following format:
+The scraping script generates a log file (log.txt by default) and creates log similar to the following format:
 
 =============================================================
 
